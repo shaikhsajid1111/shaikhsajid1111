@@ -1,8 +1,7 @@
 # Sajid Shaikh 
 
 
-![Developer's SVG](undraw_code_thinking.svg)
-
+<img src="undraw_code_thinking.svg" alt="Developer's SVG"/>
 
 
 
