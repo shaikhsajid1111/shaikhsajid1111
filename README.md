@@ -1,10 +1,7 @@
 # Sajid Shaikh 
 
 
-<img src="carbon lucario.png" alt="Developer's SVG"/>
-
-
-
+![Made with love by sajid react code](carbonLucario.png)
 
 
 [![Contact me on Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shaikhsajid1111)
