@@ -1,8 +1,17 @@
 # Sajid Shaikh 
 
-[![Contact me on Linkedin](https://img.shields.io/badge/Linkedin-shaikhsajid1111-blue.svg)](https://in.linkedin.com/in/shaikhsajid1111)
-[![Maintenance](https://img.shields.io/badge/Gmail-shaikhsajid11112000@gmail.com-red.svg)](mailto:shaikhsajid11112000@gmail.com)
-[![Contact me on Instagram](https://img.shields.io/badge/Instagram-shaikhsajid1111-ff69b4.svg)](https://instagram.com/shaikhsajid1111)
-[![Contact me on Twitter](https://img.shields.io/badge/Twitter-shaikhsajid1111-green.svg)](https://twitter.com/shaikhsajid1111)
-[![Codepen](https://img.shields.io/badge/Codepen-shaikhsajid1111-red.svg)](https://codepen.io/shaikhsajid1111)
-[![Contact me on Facebook](https://img.shields.io/badge/Facebook-shaikhsajid1111-blue.svg)](https://facebook.com/shaikhsajid1111)
+
+
+![Alt text](svg/undraw_code_thinking.svg)
+
+
+
+
+
+
+[![Contact me on Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shaikhsajid1111)
+[![Maintenance](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsajid11112000@gmail.com)
+[![Contact me on Instagram](https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shaikhsajid1111)
+[![Contact me on Twitter](https://img.shields.io/badge/twitter-%3f729b%20.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaikhsajid1111)
+[![Codepen](https://img.shields.io/badge/codepen%20-%231572B6.svg?&style=for-the-badge&logo=codepen&logoColor=green)](https://codepen.io/shaikhsajid1111)
+[![Contact me on Facebook](https://img.shields.io/badge/facebook-%230077c5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shaikhsajid1111)
