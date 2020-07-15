@@ -1,7 +1,7 @@
 # Sajid Shaikh 
 
 
-<img src="undraw_code_thinking.png" alt="Developer's SVG"/>
+<img src="carbon lucario.png" alt="Developer's SVG"/>
 
 
 
