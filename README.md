@@ -1,7 +1,7 @@
 # Sajid Shaikh 
 
 
-<img src="undraw_code_thinking.svg" alt="Developer's SVG"/>
+<img src="undraw_code_thinking.png" alt="Developer's SVG"/>
 
 
 
