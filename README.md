@@ -18,7 +18,7 @@
 <a href="https://codepen.io/shaikhsajid1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shaikhsajid1111" height="30" width="30" /></a>
 <a href="https://twitter.com/shaikhsajid1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shaikhsajid1111" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/shaikhsajid1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaikhsajid1111" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10282818/shaikh-sajid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10282818/shaikh-sajid" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/10282818/shaikh-sajid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10282818/shaikh-sajid" height="30" width="30" /></a>
 <a href="https://fb.com/shaikhsajid1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shaikhsajid1111" height="30" width="30" /></a>
 <a href="https://instagram.com/shaikhsajid1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shaikhsajid1111" height="30" width="30" /></a>
 </p>
