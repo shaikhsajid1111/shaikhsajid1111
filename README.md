@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/upper_wave.svg">
 <p align="center">
-<img src="greeting.gif" align="center" >
+<img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/greeting.gif" align="center" >
 
 <h2 align="center" style="font-family: 'Verdana';">An enthusiastic developer</h2>
 <center>
@@ -38,6 +38,6 @@
 
 </p>
 
-<img src="lower_wave.svg"/>
+<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/lower_wave.svg"/>
 
 
