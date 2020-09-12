@@ -1,4 +1,4 @@
-<img src="upper_wave.svg">
+<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/upper_wave.svg">
 <p align="center">
 <img src="greeting.gif" align="center" >
 
