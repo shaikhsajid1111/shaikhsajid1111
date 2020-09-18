@@ -25,7 +25,6 @@
 
 <h3 align="center" style="font-family: 'Ubuntu';"> Contact </h3>
 <p align="center">
-<!-- <a href="https://stackoverflow.com/users/10282818/shaikh-sajid" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" alt="https://stackoverflow.com/users/10282818/shaikh-sajid" height="30" width="30" /></a>--> <a href="https://t.me/shaikhsajid1111" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" alt="https://stackoverflow.com/users/10282818/shaikh-sajid" height="30" width="30" /></a>
 <a href="mailto:shaikhsajid11112000@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" align="center" height="30" width="30" /></a>
 </p>
 
