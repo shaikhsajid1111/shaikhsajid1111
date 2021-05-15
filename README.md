@@ -32,13 +32,10 @@
 
 <h3 align="center" style="font-family: 'Ubuntu';"> Social Media </h3>
 <p align="center">
-
 <a href="https://instagram.com/shaikhsajid1111" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg" alt="https://stackoverflow.com/users/10282818/shaikh-sajid" height="30" width="30" /></a>
 <a href="https://facebook.com/shaikhsajid1111"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="30" width="30"/></a>
 <a href="https://twitter.com/shaikhsajid1111"><img align="center" src="https://seeklogo.net/wp-content/uploads/2016/11/twitter-icon-circle-blue-logo-preview.png" alt="facebook" height="30" width="30" /></a>
-<!--dev.to starts-->
 <a href="https://dev.to/shaikhsajid1111"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" align="center" height="30" width="30" /></a>
-<!--dev.to ends-->
 
 </p>
 
