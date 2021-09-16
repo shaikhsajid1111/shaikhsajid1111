@@ -2,16 +2,15 @@
 <p align="center">
 <img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/greeting.gif" align="center" >
 
-<h2 align="center" style="font-family: 'Verdana';">An enthusiastic developer</h2>
-<p>
-
-</p>
-
+<h2 align="center" style="font-family: 'Verdana';">An Enthusiastic Developer</h2>
+<hr>
 <div>
-<center><h3 >Technologies that I like to worth with: </h3></center>
-<center>
+<h3 align="center">Technologies that I like to worth with: </h3></center>
+
+  <center>
+    <div align="center">
 <img  height="40" src="bootstrap.svg">
-<img  height="40" src="C.svg">
+<img  height="40" src="c.svg">
 <img  height="40" src="cpp.svg">
 <img  height="40" src="css.svg">
 <img  height="40" src="django.svg">
@@ -38,6 +37,7 @@
 <img  height="40" src="typescript.svg">
 <img  height="40" src="vscode.svg">
 <img  height="40" src="windows.svg">
+      </div>
 </center>
 </div>
 <br>
