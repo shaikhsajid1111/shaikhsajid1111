@@ -9,34 +9,34 @@
 
   <center>
     <div align="center">
-<img  height="40" src="bootstrap.svg">
-<img  height="40" src="c.svg">
-<img  height="40" src="cpp.svg">
-<img  height="40" src="css.svg">
-<img  height="40" src="django.svg">
-<img  height="40" src="express.svg">
-<img  height="40" src="flask.svg">
-<img  height="40" src="git.svg">
-<img  height="40" src="golang.svg">
-<img  height="40" src="html.svg">
-<img  height="40" src="java.svg">
-<img  height="40" src="javascript.svg">
-<img  height="40" src="jquery.svg">
-<img  height="40" src="linux.svg">
-<img  height="40" src="mongodb.svg">
-<img  height="40" src="mysql.svg">
-<img  height="40" src="node.svg">
-<img  height="40" src="opensuse.svg">
-<img  height="40" src="php.svg">
-<img  height="40" src="postman.svg">
-<img  height="40" src="puppeteer.svg">
-<img  height="40" src="python.svg">
-<img  height="40" src="react.svg">
-<img  height="40" src="sass.svg">
-<img  height="40" src="selenium.svg">
-<img  height="40" src="typescript.svg">
-<img  height="40" src="vscode.svg">
-<img  height="40" src="windows.svg">
+<img  height="40" alt="Bootstrap Framework" src="bootstrap.svg">
+<img  height="40" alt="C language" src="c.svg">
+<img  height="40" alt="C++ Language" src="cpp.svg">
+<img  height="40" alt="Cascading Style Sheet" src="css.svg">
+<img  height="40" alt="Django Framework" src="django.svg">
+<img  height="40" alt="Express Framework" src="express.svg">
+<img  height="40" alt="Flask Framework" src="flask.svg">
+<img  height="40" alt="Git Version Control System" src="git.svg">
+<img  height="40" alt="Golang Programming Language" src="golang.svg">
+<img  height="40" alt="Hyper Text Markup Language" src="html.svg">
+<img  height="40" alt="Java PRogramming Language" src="java.svg">
+<img  height="40" alt="Javascript programming language" src="javascript.svg">
+<img  height="40" alt="jQuery Library" src="jquery.svg">
+<img  height="40" alt="Linux Systems" src="linux.svg">
+<img  height="40" alt="mongoDB Database" src="mongodb.svg">
+<img  height="40" alt="MySQL Database" src="mysql.svg">
+<img  height="40" alt="Node.js JS environment" src="node.svg">
+<img  height="40" alt="Opensuse Linux Distribution" src="opensuse.svg">
+<img  height="40" alt="PHP Programming Language" src="php.svg">
+<img  height="40" alt="API testing tool" src="postman.svg">
+<img  height="40" alt="Automation Framework" src="puppeteer.svg">
+<img  height="40" alt="Python Programming Language" src="python.svg">
+<img  height="40" alt="JS library" src="react.svg">
+<img  height="40" alt="CSS pre-processor" src="sass.svg">
+<img  height="40" alt="Automation Framework" src="selenium.svg">
+<img  height="40" alt="Typescript Programming Language" src="typescript.svg">
+<img  height="40" alt="Code Editor" src="vscode.svg">
+<img  height="40" alt="windows OS" src="windows.svg">
       </div>
 </center>
 </div>
