@@ -8,10 +8,11 @@
 </p>
 
 <div>
-<center><h3 >Technologies that I like to worth with: </h3>
+<center><h3 >Technologies that I like to worth with: </h3></center>
+<center>
 <img  height="40" src="bootstrap.svg">
 <img  height="40" src="C.svg">
-<img  height="40" src="C++.svg">
+<img  height="40" src="Cpp.svg">
 <img  height="40" src="css.svg">
 <img  height="40" src="django.svg">
 <img  height="40" src="express.svg">
