@@ -12,7 +12,7 @@
 <center>
 <img  height="40" src="bootstrap.svg">
 <img  height="40" src="C.svg">
-<img  height="40" src="Cpp.svg">
+<img  height="40" src="cpp.svg">
 <img  height="40" src="css.svg">
 <img  height="40" src="django.svg">
 <img  height="40" src="express.svg">
