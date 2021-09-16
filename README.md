@@ -5,7 +5,7 @@
 <h2 align="center" style="font-family: 'Verdana';">An Enthusiastic Developer</h2>
 <hr>
 <div>
-<h3 align="center">Technologies that I like to worth with: </h3></center>
+<h3 align="center">Technologies that I like to work with: </h3></center>
 
   <center>
     <div align="center">
