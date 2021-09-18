@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/upper_wave.svg">
 <p align="center">
-<img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/text.gif" align="center" >
+<img src="https://fontmeme.com/permalink/210918/000d21ba10f5c07b3ab94a38e9b0f334.png" align="center" >
 <br><br>
-<img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/text2.gif" align="center" >
+<img src="https://fontmeme.com/permalink/210918/e58695272aecbe38a127050af84ca743.png" align="center" >
 
 
 <hr>
