@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/upper_wave.svg">
 <p align="center">
 <img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/text.gif" align="center" >
-
+<br><br>
 <img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/text2.gif" align="center" >
 
 
