@@ -2,7 +2,9 @@
 <p align="center">
 <img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/text.gif" align="center" >
 
-<h2 align="center" style="font-family: 'Verdana';">An Enthusiastic Developer</h2>
+<img src="https://github.com/shaikhsajid1111/shaikhsajid1111/blob/master/text2.gif" align="center" >
+
+
 <hr>
 <div>
   <p align="center" style="font-size:110pt;">
