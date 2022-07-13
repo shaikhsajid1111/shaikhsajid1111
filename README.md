@@ -49,6 +49,8 @@ This hobby led me to various different domains of programming, which include fro
 <img  height="50" alt="Code Editor" src="vscode.svg">
 <img  height="50" alt="windows OS" src="windows.svg">
 <img  height="50" alt="Google Cloud" src="google_cloud-icon.svg">
+<img  height="50" alt="Pandas" src="pandas.svg">
+<img  height="50" alt="Redash" src="redash.svg">
       </div>
 </center>
 </div>
