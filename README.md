@@ -37,7 +37,6 @@ This hobby led me to various different domains of programming, which include fro
 <img  height="50" alt="mongoDB Database" src="mongodb.svg">
 <img  height="50" alt="MySQL Database" src="mysql.svg">
 <img  height="50" alt="Node.js JS environment" src="node.svg">
-<img  height="50" alt="Opensuse Linux Distribution" src="opensuse.svg">
 <img  height="50" alt="PHP Programming Language" src="php.svg">
 <img  height="50" alt="API testing tool" src="postman.svg">
 <img  height="50" alt="Automation Framework" src="puppeteer.svg">
@@ -51,7 +50,9 @@ This hobby led me to various different domains of programming, which include fro
 <img  height="50" alt="Google Cloud" src="google_cloud-icon.svg">
 <img  height="50" alt="Pandas" src="pandas.svg">
 <img  height="50" alt="Redash" src="redash.svg">
-      </div>
+<img  height="50" alt="Docker" src="docker.svg">
+<img  height="50" alt="Bash Scripting" src="bash.svg">
+</div>
 </center>
 </div>
 <br>
