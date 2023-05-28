@@ -52,6 +52,8 @@ This hobby led me to various different domains of programming, which include fro
 <img  height="50" alt="Redash" src="redash.svg">
 <img  height="50" alt="Docker" src="docker.svg">
 <img  height="50" alt="Bash Scripting" src="bash.svg">
+<img  height="50" alt="Apache Airflow" src="airflow.svg">
+<img  height="50" alt="Amazon S3" src="s3.svg">
 </div>
 </center>
 </div>
