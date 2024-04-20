@@ -1,25 +1,30 @@
-<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/upper_wave.svg">
+<!--<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/upper_wave.svg">-->
 <p align="center">
 <img src="https://fontmeme.com/permalink/210918/000d21ba10f5c07b3ab94a38e9b0f334.png" align="center" >
 <br><br>
 <img src="https://fontmeme.com/permalink/210918/e58695272aecbe38a127050af84ca743.png" align="center" >
 
-
 <hr>
-<div>
-  <p align="center" style="font-size:110pt;">
-    <br>I love to write code. I was in higher secondary school when I wrote my first line of code in Python, just loved it, and after that, I couldn't stop myself from learning. So, I spent tons of time learning by myself. To be able to write something in the text file that a machine can understand fascinated me more than anything.
-</p>
-  <p align="center">
-This hobby led me to various different domains of programming, which include front-end, back-end, Web-scraping, and API development. I don't want to stop learning, neither do I want to slow down my learning. It's fascinating how software engineering rapidly changes over time and there's always something to learn even for experienced ones.
-    </p><br/>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding-right: 10px;">
+    <p>
+    I love to write code. I was in higher secondary school when I wrote my first line of code in Python, just loved it, and after that, I couldn't stop myself from learning. So, I spent tons of time learning by myself. To be able to write something in the text file that a machine can understand fascinated me more than anything.
+    </p>
+    <p>
+    This hobby led me to various different domains of programming, which include front-end, back-end, Web-scraping, and API development. I don't want to stop learning, neither do I want to slow down my learning. It's fascinating how software engineering rapidly changes over time and there's always something to learn even for experienced ones.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img style="max-width: 100%;" alt="Bootstrap Framework" src="undraw_programming.svg">
+  </div>
+</div>
   </div>
   <hr>
 <div>
 <h3 align="center">Technologies that I like to work with: </h3></center>
-
   <center>
-    <div align="center">
+<div align="center">
 <img  height="50" alt="Bootstrap Framework" src="bootstrap.svg">
 <img  height="50" alt="C language" src="c.svg">
 <img  height="50" alt="C++ Language" src="cpp.svg">
@@ -79,6 +84,4 @@ This hobby led me to various different domains of programming, which include fro
 
 </p>
 
-<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/lower_wave.svg"/>
-
-
+<!--<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/lower_wave.svg"/>-->
