@@ -1,6 +1,6 @@
 <!--<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/upper_wave.svg">-->
 <p align="center">
-<img  alt="Bootstrap Framework" src="banner_1.png">
+<img  alt="Bootstrap Framework" src="name_fig.gif">
   <hr>
 <div>
 <h3 align="center">Technologies that I like to work with: </h3></center>
