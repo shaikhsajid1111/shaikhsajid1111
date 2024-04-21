@@ -2,7 +2,6 @@
 <h1>Hi, I'm Sajid 👋</h1>
 <p align="center">
 <img  alt="Bootstrap Framework" src="name_fig.gif">
-  <hr>
   <div>
   <p>
     <br>I love to write code. I was in higher secondary school when I wrote my first line of code in Python, just loved it, and after that, I couldn't stop myself from learning. So, I spent tons of time learning by myself. To be able to write something in the text file that a machine can understand fascinated me more than anything.
@@ -12,12 +11,15 @@ This hobby led me to various different domains of programming, which include fro
     </p><br/>
   </div>
 <div>
-<h3 align="center">Technologies that I like to work with: </h3></center>
-  <center>
-<div align="center">
-<img  height="50" alt="Bootstrap Framework" src="bootstrap.svg">
-<img  height="50" alt="C language" src="c.svg">
+<hr>
+<h3>Languages and Tools: </h3>
+<div>
+<img  height="50" alt="Node.js JS environment" src="node.svg">
+<img  height="50" alt="Typescript Programming Language" src="typescript.svg">
+<img  height="50" alt="Javascript programming language" src="javascript.svg">
+<img  height="50" alt="Python Programming Language" src="python.svg">
 <img  height="50" alt="C++ Language" src="cpp.svg">
+<img  height="50" alt="C language" src="c.svg">
 <img  height="50" alt="Cascading Style Sheet" src="css.svg">
 <img  height="50" alt="Django Framework" src="django.svg">
 <img  height="50" alt="Express Framework" src="express.svg">
@@ -26,52 +28,40 @@ This hobby led me to various different domains of programming, which include fro
 <img  height="50" alt="Golang Programming Language" src="golang.svg">
 <img  height="50" alt="Hyper Text Markup Language" src="html.svg">
 <img  height="50" alt="Java PRogramming Language" src="java.svg">
-<img  height="50" alt="Javascript programming language" src="javascript.svg">
-<img  height="50" alt="jQuery Library" src="jquery.svg">
 <img  height="50" alt="Linux Systems" src="linux.svg">
 <img  height="50" alt="mongoDB Database" src="mongodb.svg">
 <img  height="50" alt="MySQL Database" src="mysql.svg">
-<img  height="50" alt="Node.js JS environment" src="node.svg">
 <img  height="50" alt="PHP Programming Language" src="php.svg">
+<img  height="50" alt="Pandas" src="pandas.svg">
 <img  height="50" alt="API testing tool" src="postman.svg">
 <img  height="50" alt="Automation Framework" src="puppeteer.svg">
-<img  height="50" alt="Python Programming Language" src="python.svg">
-<img  height="50" alt="JS library" src="react.svg">
 <img  height="50" alt="CSS pre-processor" src="sass.svg">
 <img  height="50" alt="Automation Framework" src="selenium.svg">
-<img  height="50" alt="Typescript Programming Language" src="typescript.svg">
-<img  height="50" alt="Code Editor" src="vscode.svg">
-<img  height="50" alt="windows OS" src="windows.svg">
+<img  height="50" alt="Bootstrap Framework" src="bootstrap.svg">
 <img  height="50" alt="Google Cloud" src="google_cloud-icon.svg">
-<img  height="50" alt="Pandas" src="pandas.svg">
 <img  height="50" alt="Redash" src="redash.svg">
+<img  height="50" alt="Apache Airflow" src="airflow.svg">
 <img  height="50" alt="Docker" src="docker.svg">
 <img  height="50" alt="Bash Scripting" src="bash.svg">
-<img  height="50" alt="Apache Airflow" src="airflow.svg">
-<img  height="50" alt="Amazon S3" src="s3.svg">
+<img  height="50" alt="Code Editor" src="vscode.svg">
+<img  height="50" alt="windows OS" src="windows.svg">
 </div>
-</center>
 </div>
 <br>
-<h3 align="center" style="font-family: 'Ubuntu';"> Contact </h3>
-<p align="center">
-<!--gmail-->
-<a href="mailto:shaikhsajid11112000@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" align="center" height="40"  /></a>
-<!--gmail ends-->
-<!--linkedin starts-->
-<a href="https://in.linkedin.com/in/shaikhsajid1111"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" align="center" height="40"  /></a>
-<!--linkedin ends-->
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
+<a href="https://dev.to/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
+<a href="https://twitter.com/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10282818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10282818" height="30" width="40" /></a>
+<a href="https://fb.com/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
+<a href="https://instagram.com/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
 </p>
 <br>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=shaikhsajid1111&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="shaikhsajid1111" />
 
-<h3 align="center" style="font-family: 'Ubuntu';"> Social Media </h3>
-<p align="center">
-<!--<a href="https://instagram.com/shaikhsajid1111" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg" alt="https://stackoverflow.com/users/10282818/shaikh-sajid" height="40" /></a>-->
-<a href="https://facebook.com/shaikhsajid1111"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="40"/></a>
-<a href="https://twitter.com/shaikhsajid1111"><img align="center" src="https://seeklogo.net/wp-content/uploads/2016/11/twitter-icon-circle-blue-logo-preview.png" alt="facebook" height="40"  /></a>
-<a href="https://dev.to/shaikhsajid1111"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" align="center" height="40"  /></a>
-<a href="http://discordapp.com/users/758233885577445397"><img src="discord.svg" align="center" height="40"  /></a>
-
-</p>
 
 <!--<img src="https://raw.githubusercontent.com/shaikhsajid1111/shaikhsajid1111/master/lower_wave.svg"/>-->
