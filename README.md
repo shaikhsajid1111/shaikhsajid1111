@@ -20,29 +20,31 @@ This hobby led me to various different domains of programming, which include fro
 <img  height="50" alt="Python Programming Language" src="python.svg">
 <img  height="50" alt="C++ Language" src="cpp.svg">
 <img  height="50" alt="C language" src="c.svg">
+<img  height="50" alt="Golang Programming Language" src="golang.svg">
+<img  height="50" alt="Bash Scripting" src="bash.svg">
+<img  height="50" alt="Java PRogramming Language" src="java.svg">
+<img  height="50" alt="PHP Programming Language" src="php.svg">
+<img  height="50" alt="CSS pre-processor" src="sass.svg">
+<img  height="50" alt="Apache Kafka" src="Apache_kafka.svg">
+<img  height="50" alt="Pandas" src="pandas.svg">
+<img  height="50" alt="Apache Spark" src="Apache_Spark_logo.svg">
 <img  height="50" alt="Cascading Style Sheet" src="css.svg">
 <img  height="50" alt="Django Framework" src="django.svg">
 <img  height="50" alt="Express Framework" src="express.svg">
 <img  height="50" alt="Flask Framework" src="flask.svg">
 <img  height="50" alt="Git Version Control System" src="git.svg">
-<img  height="50" alt="Golang Programming Language" src="golang.svg">
 <img  height="50" alt="Hyper Text Markup Language" src="html.svg">
-<img  height="50" alt="Java PRogramming Language" src="java.svg">
 <img  height="50" alt="Linux Systems" src="linux.svg">
 <img  height="50" alt="mongoDB Database" src="mongodb.svg">
 <img  height="50" alt="MySQL Database" src="mysql.svg">
-<img  height="50" alt="PHP Programming Language" src="php.svg">
-<img  height="50" alt="Pandas" src="pandas.svg">
 <img  height="50" alt="API testing tool" src="postman.svg">
 <img  height="50" alt="Automation Framework" src="puppeteer.svg">
-<img  height="50" alt="CSS pre-processor" src="sass.svg">
 <img  height="50" alt="Automation Framework" src="selenium.svg">
 <img  height="50" alt="Bootstrap Framework" src="bootstrap.svg">
 <img  height="50" alt="Google Cloud" src="google_cloud-icon.svg">
 <img  height="50" alt="Redash" src="redash.svg">
 <img  height="50" alt="Apache Airflow" src="airflow.svg">
 <img  height="50" alt="Docker" src="docker.svg">
-<img  height="50" alt="Bash Scripting" src="bash.svg">
 <img  height="50" alt="Code Editor" src="vscode.svg">
 <img  height="50" alt="windows OS" src="windows.svg">
 </div>
