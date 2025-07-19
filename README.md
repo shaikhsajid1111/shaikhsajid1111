@@ -59,7 +59,7 @@ This hobby led me to various different domains of programming, which include fro
 <a href="https://linkedin.com/in/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10282818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10282818" height="30" width="40" /></a>
 <a href="https://fb.com/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
-<a href="https://instagram.com/shaikhsajid1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikhsajid1111" height="30" width="40" /></a>
+<a href="https://instagram.com/quitelyasync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quitelyasync" height="30" width="40" /></a>
 </p>
 <br>
 <hr>
