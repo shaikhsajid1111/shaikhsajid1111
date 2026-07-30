@@ -34,6 +34,6 @@ Currently, I specialize in building high-throughput ingestion architectures that
 
 ### 📬 Let's Connect
 
-* 💼 **LinkedIn:** [linkedin.com/in/shaikhsajid1111](https://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/shaikhsajid1111](https://linkedin.com/in/shaikhsajid1111)
 * 📧 **Email:** [shaikhsajid11112000@gmail.com](mailto:shaikhsajid11112000@gmail.com)
 * 📍 **Location:** Mumbai, India
